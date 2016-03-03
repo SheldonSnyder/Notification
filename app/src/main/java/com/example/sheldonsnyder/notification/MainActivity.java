@@ -13,7 +13,7 @@ How to make a notification and take action on the notification
 
 Also custom icons created SLSrecycle
 
-
+Now this is in Branch 1
  */
 public class MainActivity extends AppCompatActivity {
 
