@@ -1,4 +1,4 @@
-package com.example.sheldonsnyder.notification;
+package com.javaDroid.sheldonsnyder.notification;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
