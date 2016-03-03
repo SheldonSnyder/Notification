@@ -13,7 +13,9 @@ How to make a notification and take action on the notification
 
 Also custom icons created SLSrecycle
 
+Now this is in Branch 1
 
+But not seeing it in the git.com
  */
 public class MainActivity extends AppCompatActivity {
 
