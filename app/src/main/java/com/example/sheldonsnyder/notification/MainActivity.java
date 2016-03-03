@@ -8,7 +8,11 @@ import android.support.v4.app.NotificationCompat;
 import android.os.Bundle;
 import android.view.View;
 
+/*
+How to make a notification and take action on the notification
 
+Also custom icons created SLSrecycle
+ */
 public class MainActivity extends AppCompatActivity {
 
     NotificationCompat.Builder notification;
