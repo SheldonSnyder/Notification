@@ -1,4 +1,4 @@
-package com.example.sheldonsnyder.notification;
+package com.javaDroid.sheldonsnyder.notification;
 
 import android.support.v7.app.AppCompatActivity;
 import android.app.NotificationManager;
@@ -12,10 +12,6 @@ import android.view.View;
 How to make a notification and take action on the notification
 
 Also custom icons created SLSrecycle
-
-Now this is in Branch 1
-
-But not seeing it in the git.com
  */
 public class MainActivity extends AppCompatActivity {
 
